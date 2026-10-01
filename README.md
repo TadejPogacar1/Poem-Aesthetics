@@ -3,8 +3,7 @@
 
 A research project investigating representational convergence in Large Language Models (LLMs) and Vision Transformers (ViTs) on aesthetic data.
 
-**Course**: Foundation of Digital Humanities (DH-405), EPFL  
-**Authors**: Jiajun Shen, Yibo Yin, Yifan Zhou
+
 
 
 ---
@@ -175,12 +174,4 @@ We thank the authors of these works for making their code publicly available.
 - Beyond Narrative Description: Generating Poetry from Images by Multi-Adversarial Training: [https://arxiv.org/abs/1804.08473]
 
 
----
 
-## Wikipage
-
-- Wiki: [https://github.com/SjJ1017/EPFL25_FDH_Universal_Aesthetics](https://fdh.epfl.ch/index.php/Universal_Aesthetics_(Multimodal_Focus))
-
----
-
-**Last Updated**: December 2024
